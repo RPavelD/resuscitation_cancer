@@ -1,0 +1,4 @@
+data/
+catboost_info/
+Results.csv
+.ipynb_checkpoints/
